@@ -1,4 +1,4 @@
-# Written by Alireza Alibeiki (https://instagram.com/alireza_alibeiki)
+# Written by Alireza Alibeiki (https://github.com/alireza-ab)
 
 import re
 
